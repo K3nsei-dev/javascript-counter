@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url(https://forgood.azureedge.net/forgoodupload/causelogo/5ff1c769-c676-4739-bdcb-353591bfd15d/LIFE-CHOICES-ICON-ON-GREEN.png)
+  }
+  
+  .heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+  }
+  
+  #time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    font-size: 50px;
+  }
